@@ -1,0 +1,210 @@
+
+#javas{
+	border-width:50%;
+	margin:2px;
+	border: 2px solid black;
+	border-radius: 5px;
+	text-align:center;
+	max-width: 50%;
+	height: auto;  
+	align-items: center;
+}
+
+#pythons{
+	border-width:50%;
+	margin:2px;
+	border: 2px solid black;
+	border-radius: 5px;
+	text-align:center;
+	max-width: 50%;
+	height: auto;  
+	align-items: center;
+}
+#devopss{
+	margin:2px;
+	border: 2px solid black;
+	border-radius: 5px;
+	text-align:center;
+	max-width: 50%;
+	height: auto;  
+	align-items: center;
+	widith:
+}
+
+#nets{
+	margin:2px;
+	border: 2px solid black;
+	border-radius: 5px;
+	text-align:center;
+	max-width: 50%;
+	height: auto;  
+	align-items: center;
+}
+
+
+
+
+a{
+   text-decoration: none;
+   color: blue;
+  }
+ h1,h2,h3,h4{
+	 color:#bd4d19;
+	 text-align:center;
+ }
+ 
+ h6,h5{
+	 
+	 color:#bd4d19;
+	 text-align:left;
+ }
+
+#stcon{
+  margin: 0px;
+  border: 1px black;
+  background-color:white;
+ }
+
+#ht{
+	color:red;
+	text-align:center;
+	font-size: 50px;
+	font-weight:bold;
+}
+
+#tab1{
+	width:100%;
+  	color:white;
+	text-align:center;
+	font-size: mid;
+	font-weight:bold;
+	padding:2px;
+  }
+  
+#tab{
+	background-color:white;
+	width:100%;
+  	color:red;
+	text-align:center;
+	font-size: mid;
+	font-weight:bold;
+  }
+  
+ #loc{
+	  text-align:center;
+  }
+  
+img {
+  align-items: center;
+  max-width: 50%;
+  height: auto;
+}
+
+
+#navt{
+	font-size: 15px;
+	color:red;
+	align:center;
+}
+
+body{
+	background-color:white;
+}
+
+
+#ul1 {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.li1 {
+  float: left;
+}
+
+.li1 a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+ul{
+	text-align: left;
+}
+
+
+footer{
+	text-align:center;
+	color: white;
+	background-color:#333;
+		font-size: 50px;
+	font-weight:bold;
+	width:100%;
+}
+
+#above{
+	text-align:center;
+}
+#locp{
+	text-align:center;
+}
+
+p{
+	text-align:justify;
+}
+
+#main1{ 
+		
+		width:48%;
+		float:left;
+		height:auto;
+}
+#main2{ 
+		border: 2px solid;
+		border-radius: 12px;
+		width:40%;
+		float:right;
+		height:auto;
+}
+
+.sec1{
+	padding-top: 50px;
+	padding:2%;
+	margin:2%;
+
+}
+
+#sec2{
+	margin-top:15%;
+	margin-bottom:15%;
+}
+
+header{
+  background-color:#333;
+
+}
+
+
+
+.th1{
+	padding-top:20px;
+}
+.th2{
+	padding-bottom:15px;
+}
+
+.faculty{
+	border-width:50%;
+	margin:2px;
+	border: 2px solid black;
+	border-radius: 5px;
+	text-align:center;
+	color:red;
+	align-items: center;
+	max-width: 50%;
+	height: auto;  
+	align-items: center;
+}
